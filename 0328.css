@@ -1,0 +1,26 @@
+@charset "utf-8";
+.container {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #EEE0CB;
+}
+.container header h1 {
+    color: #000000;
+    text-align: center;
+    font-size: 41px;
+}
+.container header nav {
+    text-align: center;
+    text-decoration: underline;
+    color: #7A4414;
+    font-size: 15px;
+}
+
+.container footer {
+	text-align: center;
+}
+article li h3 {
+    background-color: #BFD7EA;
+    color: #0E5520;
+}
